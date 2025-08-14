@@ -38,9 +38,9 @@ The dashboard highlights **key performance indicators (KPIs)**, best-selling pro
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ---
 
 ## 🔗 LinkedIn Post
-[Click here to view my LinkedIn post for this project]()
+[Click here to view my LinkedIn post for this project](https://www.linkedin.com/in/rakshithaselvan05)
